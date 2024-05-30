@@ -1,2 +1,2 @@
-# > This repo contain a CRUD Operations Task.
+> This repo contain a CRUD Operations Task.
 
